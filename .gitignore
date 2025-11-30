@@ -1,0 +1,12 @@
+# Python garbage
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+venv/
+.venv/
+
+# OS garbage
+.DS_Store
